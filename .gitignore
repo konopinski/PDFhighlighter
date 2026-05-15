@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# input/output
+*.pdf
+*.doc
+*.docx
+*.txt
+*.xls
+*.xlsx
