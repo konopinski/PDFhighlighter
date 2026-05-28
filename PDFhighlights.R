@@ -62,7 +62,7 @@ Polish_keywords <- c("genom*", "gen", "geny", "genów", "genami", "*inbre*", "hy
                      "adapt*","przystos*", "wymian", "pul", "sekwencj*", "DNA", "zuboż", "populac*",
                      "ras*", "wymiera*", "wymar*", "zamiera*", "wygin*", "endemi*", "inwentarz",
                      "zasoby", "pogłowie",	"stad*", "łącznoś*","wędr*", "*fragment*", "korytarz*",
-                     "migr*", "izol*", "Cel* 4", "krio*","*pokrew*","*odk*")
+                     "migr*", "izol*", "Cel* 4", "krio*")
 
 ##########################
 
