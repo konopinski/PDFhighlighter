@@ -55,3 +55,6 @@ rsconnect/
 *.txt
 *.xls
 *.xlsx
+
+# Rproj
+*.Rproj
